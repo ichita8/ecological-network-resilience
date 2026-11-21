@@ -1,0 +1,109 @@
+study_reference_id,normalized_reference,candidate_networks,accepted_networks
+REF_033,"hadfield jd, krasnov br, poulin r, shinichi n (2013) a tale of two phylogenies: comparative analyses of ecological interactions. the american naturalist 183(2): 174-187",51,51
+REF_045,"kaiser-bunbury cn, vázquez dp, stang m, ghazoul j. 2014. determinants of the microstructure of plant-pollinator networks. ecology, 95: 3314-3324",49,48
+REF_046,"kaiser-bunbury, c. n., s. muff, j. memmott, c. b. müller, and a. caflisch. 2010. the robustness of pollination networks to the loss of species and interactions: a quantitative approach incorporating pollinator behaviour. ecology letters 13:442-452",25,24
+REF_086,"ricciardi, f., m. boyer & j. ollerton (2010). assemblage and interaction structure of the anemonefish-anemone mutualism across the manado region of sulawesi, indonesia. environmental biology of fishes 87: 333-347",17,16
+REF_091,"sabatino m., maceira n., aizen a. m. (2010) direct effects of habitat area on interaction diversity in pollination webs. ecological applications, 20(6), pp. 1491–1497",13,12
+REF_016,"dalsgaard, b. et al. (2021). the influence of biogeographical and evolutionary histories on morphological trait-matching and resource specialization in mutualistic hummingbird–plant networks. functional ecology, 35, pp. 1120–1133",7,6
+REF_017,"data unpublished, however see jordano 1993",5,5
+REF_054,"kohler, g. (2011) redes de interação planta-beija-flor em um gradiente altitudinal de floresta atlântica no sul do brasil. msc. thesis. universidade federal do paraná, brazil",4,3
+REF_013,carlo et al. (2003) avian fruit preferences across a puerto rican forested landscape: pattern consistency and implications for seed removal. oecologia 134: 119-131,4,4
+REF_003,"arroyo, m.t.k., r. primack & j.j. armesto. 1982. community studies in pollination ecology in the high temperate andes of central chile. i. pollination mechanisms and altitudinal variation. amer. j. bot. 69:82-97",3,3
+REF_066,"montero ac (2005).the ecology of three pollination networks. msc thesis (univ of aarhus, aarhus, denmark)",3,3
+REF_070,olesen unpubl,3,3
+REF_064,"medan, d., n. h. montaldo, m. devoto, a. mantese, v. vasellati, and n. h. bartoloni. 2002. plant-pollinator relationships at two altitudes in the andes of mendoza, argentina. arctic antarctic and alpine research 34:233-241",2,2
+REF_030,"graham, c. h. and weinstein, b. g. (2018). towards a predictive model of species interaction beta diversity. ecol. lett., 21, 1299–1310",2,2
+REF_021,"dupont & olesen(2009). j. animal ecology, 78:346-353",2,2
+REF_080,"poulin, brigitte, s. joseph wright, gaetan lefebvre, and osvaldo calderon (1999) interspecific synchrony and asynchrony in the fruiting phenologies of congeneric bird-dispersed plants in panama. journal of tropical ecology 15: 213-227",2,2
+REF_058,"leather, s.r. 1991. feeding specialisation and host distribution of british and finnish prunus feeding macrolepidoptera. oikos 60: 40-48",2,2
+REF_061,"maruyama, p. k. et al. (2015). nectar robbery by a hermit hummingbird: association to floral phenotype and its influence on flowers and network structure. oecologia, 178, pp. 783-793",2,2
+REF_076,"partida-lara, r. et al. (2018). pollination syndromes and interaction networks in hummingbird assemblages in el triunfo biosphere reserve, chiapas, mexico. j. trop. ecol., 34, pp. 293-307",2,2
+REF_075,"p. jordano, unpubl",2,2
+REF_020,"dicks, lv, corbet, sa and pywell, rf 2002. compartmentalization in plant–insect flower visitor webs. j. anim. ecol. 71: 32–43",2,2
+REF_043,"joern, a. 1979. feeding patterns in grasshoppers (orthoptera: acrididae): factors influencing diet specialization. oecologia 38: 325-347",2,2
+REF_028,"galetti, m., pizo, m.a. 1996. fruit eating birds in a forest fragment in southeastern brazil. ararajuba, revista brasileira de ornitologia, 4: 71-79",2,2
+REF_010,bottom-up control and co-occurrence in complex communities: honeydew and nectar determine a rainforest ant mosaic. oikos 106: 344-358,1,1
+REF_012,"canela, m.b.f. (2006) interações entre plantas e beija-flores numa comunidade de floresta atlântica montana em itatiaia, rj. ph.d thesis. universidade estadual de campinas, brazil",1,1
+REF_011,"bundgaard, m. (2003). tidslig og rumlig variation i et plante-bestøvernetværk. msc thesis. university of aarhus. aarhus, denmark",1,1
+REF_015,"crome, f.h.j. 1975. the ecology of fruit pigeons in tropical northern queensland. australian journal of wildlife research, 2: 155-185",1,1
+REF_014,"clements, r. e., and f. l. long. 1923, experimental pollination. an outline of the ecology of flowers and insects. washington, d.c., usa, carnegie institute of washington",1,1
+REF_027,"frost, p.g.h. 1980. fruit-frugivore interactions in a south african coastal dune forest. pages 1179-1184 in: r. noring (ed.). acta xvii congresus internationalis ornithologici, deutsches ornithologische gessenshaft, berlin",1,1
+REF_026,"fonseca, c.r., and g. ganade. 1996. asymmetries, compartments and null interactions in an amazonian ant-plant community. journal of animal ecology 66: 339-347",1,1
+REF_025,"emer, c., venticinque, e. m., and fonseca, c. r. (2013). effects of dam‐induced landscape fragmentation on amazonian ant-plant mutualistic networks. conservation biology 27: 763-773",1,1
+REF_009,"bezerra els, machado ics, mello mar. 2009. pollination networks of oil-flowers: a tiny world within the smallest of all worlds. journal of animal ecology 78:1096–1101",1,1
+REF_008,"bek s (2006). a pollination network from a danish forest meadow. msc thesis (univ of aarhus, aarhus, denmark)",1,1
+REF_007,"beehler, b. 1983. frugivory and polygamy in birds of paradise. auk, 100: 1-12",1,1
+REF_006,"bartomeus, i., vilà, m. & santamaria, l., 2008. contrasting effects of invasive plants in plant-pollinator networks. oecologia 155: 761-770",1,1
+REF_005,"barrett, s. c. h., and k. helenurm. 1987. the reproductive-biology of boreal forest herbs.1. breeding systems and pollination. canadian journal of botany 65:2036-2046",1,1
+REF_004,"baird, j.w. 1980. the selection and use of fruit by birds in an eastern forest. wilson bulletin 92: 63-73",1,1
+REF_019,"davidson, d.w., r.r. snelling, and j.t. longino. 1989. competition among ants for myrmecophytes and the significance of plant trichomes. biotropica 21: 64-73",1,1
+REF_023,elberling & olesen unpubl,1,1
+REF_022,"dupont yl, hansen dm and olesen jm (2003) structure of a plant-flower-visitor network in the high-altitude sub-alpine desert of tenerife, canary islands. ecography 26:301-310",1,1
+REF_024,"elberling, h. & olesen, j. m. 1999. the structure of a high latitude plant-pollinator system: the dominance of flies. ecography 22:314-323",1,1
+REF_018,"davidson, d.w., and b.l. fisher. 1991. symbiosis of ants with cecropia as a function of light regime. pages 289-309 in c.r. huxley and d.f. cutler, eds., ant-plant interactions. oxford university press, oxford",1,1
+REF_002,"arizmendi, m.c. & ornelas, j.f. (1990) hummingbirds and their floral resources in a tropical dry forest inforest, in mexico. biotropica, 22, 172–180",1,1
+REF_001,"abreu, c.r.m. & vieira, m.f. (2004) os beija-flores e seus recursos florais em um fragmento florestal de viçosa, sudeste brasileiro. lundiana, 5, 129–134",1,1
+REF_044,"jordano p. (1985) el ciclo anual de los paseriformes frugívoros en el matorral mediterráneo del sur de españa: importancia de su invernada y variaciones interanuales. ardeola, 32, 69-94",1,1
+REF_042,"jeff ollerton, duncan mccollin, daphne g fautin, gerald r allen. 2007. finding nemo: nestedness engendered by mutualistic organization in anemonefish and their hosts. proc. r. soc. b 274:591–598",1,1
+REF_041,"inouye, d. w., and g. h. pyke. 1988. pollination biology in the snowy mountains of australia: comparisons with montane colorado, usa. australian journal of ecology 13:191-210",1,1
+REF_040,"inoue et al 1990. insect-flower relationship in the temperate deciduous forest of kibune, kyoto : an overview of the flowering phenology and the seasonal pattern of insect visits",1,1
+REF_038,"ingversen tt (2006) msc thesis (univ of aarhus, aarhus, denmark). (msc, 2006, tanja toftemark ingversen, plant–pollinator interactions on jamaica and dominica: the centrality, asymmetry and modularity of networks)",1,1
+REF_039,"ingversen tt (2006). plant–pollinator interactions on jamaica and dominica: the centrality, asymmetry and modularity of networks. msc thesis (univ of aarhus, aarhus, denmark)",1,1
+REF_037,"hocking, b. 1968. insect-flower associations in the high arctic with special reference to nectar. oikos 19:359-388",1,1
+REF_036,"herrera, j. (1988) pollination relatioships in southern spanish mediterranean shrublands. journal of ecology 76: 274-287",1,1
+REF_029,"gonzalez, o. & loiselle, b. a. (2016). species interactions in an andean bird–flowering plant network: phenology is more important than abundance or morphology. peerj, 4, e2789",1,1
+REF_035,"heleno ruben h., ramos jaime a., memmott jane (2013). integration of exotic seeds into an azorean seed dispersal network. biological invasions. 15, 5, 1143-1154",1,1
+REF_034,"hammann, a. & curio, b. (1999) interactions among frugivores and fleshy fruit trees in a philippine submontane rainforest",1,1
+REF_032,"gutierrez zamora, e.a. & rojas nossa, s.v. (2001) dinámica anual de la interacción colibrí-flor en ecosistemas altoandinos del volcán galeras, sur de colombia. bsc. thesis. universidad nacional de colombia, colombia",1,1
+REF_031,"guitián, j. (1983). relaciones entre los frutos y los passeriformes en un bosque montano de la cordillera cantábrica occidental. phd thesis, univ. santiago, spain",1,1
+REF_049,"kato & miura (1996). flowering phenology and anthophilous insect community at a threatened natural lowland marsh at nakaikemi in tsuruga, japan. kyoto university, vol. 29: 1-48",1,1
+REF_052,"kato, m., kakutani, t., inoue, t. and itino, t. (1990). insect-flower relationship in the primary beech forest of ashu, kyoto: an overview of the flowering phenology and the seasonal pattern of insect visits. contrib. biol. lab., kyoto, univ., 27, 309-375",1,1
+REF_051,"kato m (2000).anthophilous insect community and plant-pollinator interactions on amami islands in the ryukyu archipelago, japan. contr biol lab kyoto univ 29:157-252",1,1
+REF_060,"mack, al and wright, dd. (1996) notes on occurrence and feeding of birds at crater mountain biological research station, papua new guinea. emu 96: 89-101",1,1
+REF_059,"lundgren r, olesen jm (2005). the dense and highly connected world of greenland's plants and their pollinators. arc antarc alp res 37:514-520",1,1
+REF_057,"las casas, f.m.g., azevedo júnior, s.m. & dias filho, m.m. (2012) the community of hummingbirds (aves: trochilidae) and the assemblage of flowers in a caatinga vegetation. brazilian journal of biology, 72, 51–58",1,1
+REF_056,"lara, c. (2006) temporal dynamics of flower use by hummingbirds in a highland temperate forest in méxico. ecoscience, 13, 23–29",1,1
+REF_053,"kevan p. g. 1970. high arctic insect-flower relations: the interrelationships of arthropods and flowers at lake hazen, ellesmere island, northwest territories, canada. ph.d. thesis, university of alberta, edmonton, 399 pp",1,1
+REF_055,"lambert f. (1989). fig-eating by birds in a malaysian lowland rain forest. j. trop. ecol., 5, 401-412",1,1
+REF_063,"mcmullen, c. k. 1993. flower-visiting insects of the galapagos islands. pan-pacific entomologist 69:95-106",1,1
+REF_062,"matthias schleuning, nico blüthgen, martina flörchinger, julius braun, h. martin schaefer, katrin böhning-gaese, (2011). specialization and interaction strength in a tropical plant-frugivore network differ among forest strata. ecology, 92(1): 26-36",1,1
+REF_068,"motten, a. f. 1982. pollination ecology of the spring wildflower community in the deciduous forests of piedmont north carolina. doctoral dissertation thesis, duke university, duhram, north carolina, usa; motten, a. f. 1986. pollination ecology of the spring wildflower community of a temperate deciduous forest. ecological monographs 56:21-42",1,1
+REF_067,"mosquin, t., and j. e. h. martin. 1967. observations on the pollination biology of plants on melville island, n.w.t., canada. canadian field naturalist 81:201-205",1,1
+REF_065,memmott j. 1999. the structure of a plant-pollinator food web. ecology letters 2:276-280,1,1
+REF_069,"noma, n. 1997. annual fluctuations of sapfruits production and synchronization within and inter species in a warm temperate forest on yakushima island, japan. tropics, 6: 441-449",1,1
+REF_072,"ollerton, j., s. d. johnson, l. cranmer, and s. kellie. 2003. the pollination ecology of an assemblage of grassland asclepiads in south africa. annals of botany 92:807-834",1,1
+REF_050,"kato et al. 1993. flowering phenology and anthophilous insect community in the cool-temperate subalpine forests and meadows at mt. kushigata in the central part of japan. contributions from the biological laboratory, kyoto university 28: 119-172",1,1
+REF_047,"kakutani, t., t. inoue, m. kato and h. ichihashi (1990) insect-flower relationship in the campus of kyoto university, kyoto: an overview of the flowering phenology and the seasonal pattern of insect visits. contribution from the biological laboratory, kyoto university, 27: 465-521",1,1
+REF_048,"kantak, g.e. 1979. observations on some fruit-eating birds in mexico. auk, 96: 183-186",1,1
+REF_073,"oppenheimer, r. l., and lill, j. t. (2021). a plant-bee visitation network for plummers island, md. proceedings of the entomological society of washington, 123(2): 365-381",1,1
+REF_074,"p. a. cotton (1998). coevolution in an amazonian hummingbird-plant community. ibis, 140, 639-646",1,1
+REF_071,"olesen, j.m., eskildsen, l.i. & venkatasamy, s. (2002). div. distr., 8:181-192",1,1
+REF_077,"percival, m. (1974). floral ecology of coastal scrub in southeast jamaica. biotropica, 6, 104-129",1,1
+REF_081,"primack, r.b. (1983). insect pollination in the new zealand mountain flora. new zealand j. bot. 21, 317-333. ap",1,1
+REF_082,"primack, r.b. (1983). insect pollination in the new zealand mountain flora. new zealand j. bot. 21, 317-333. cass",1,1
+REF_078,"petanidou, t. (1991). pollination ecology in a phryganic ecosystem. unp. phd. thesis, aristotelian university, thessaloniki",1,1
+REF_079,"philipp m, böcher j, siegismund hr, nielsen lr (2006) ecography 29:531-540. (philipp, m., böcher, j., siegismund, h. r. and nielsen, l. r. 2006. structure of a plant-pollinator network on a pahoehoe lava desert of the galápagos islands. – ecography 29: 531– 40.)",1,1
+REF_084,"ramirez, n. (1989). biología de polinización en una comunidad arbustiva tropical de la alta guyana venezolana. biotropica 21, 319-330",1,1
+REF_083,"primack, r.b. (1983). insect pollination in the new zealand mountain flora. new zealand j. bot. 21, 317-333. craigieb",1,1
+REF_087,"robertson, c. 1929. flowers and insects: lists of visitors to four hundred and fifty-three flowers. carlinville, il, usa, c. robertson",1,1
+REF_085,"ramirez, n., and y. brito. 1992. pollination biology in a palm swamp community in the venezuelan central plains. botanical journal of the linnean society 110:277-302",1,1
+REF_088,"rodrigues, lc. and rodrigues, m. (2014). flowers visited by hummingbirds in the open habitats of the southeastern brazilian mountaintops: species composition and seasonality. braz. j. biol., 74, pp. 659-676",1,1
+REF_089,"rosero-lasprilla, l. & sazima, m. (2004). interacciones planta-colibrí en tres comunidades vegetales de la parte suroriental del parque nacional natural chiribiquete, colombia. ornit. neotrop., 15, pp. 183-190",1,1
+REF_090,"s. buzato et al. (2000). hummingbird-pollinated floras at three atlantic forest sites. biotropica, 32, 824-841",1,1
+REF_092,"schemske, d. w., m. f. willson, m. n. melampy, l. j. miller, l. verner, k. m. schemske, and l. b. best. 1978. flowering ecology of some spring woodland herbs. ecology 59:351-366",1,1
+REF_093,"silva, w.r., p. de marco, e. hasui, and v.s.m. gomes (2002) patterns of fruit-frugivores interactions in two atlantic forest bird communities of south-eastern brazil: implications for conservation. pp. 423-435. in: d.j. levey, w.r. silva and m. galetti (eds.) seed dispersal and frugivory: ecology, evolution and conservation. wallinford: cab international",1,1
+REF_094,"small, e. 1976. insect pollinators of the mer bleue peat bog of ottawa. canadian field naturalist 90:22-28",1,1
+REF_095,"smith-ramírez c., p. martinez, m. nuñez, c. gonzález and j. j. armesto (2005) diversity, flower visitation frequency and generalism of pollinators in temperate rain forests of chiloé island,chile. botanical journal of the linnean society, 2005, 147, 399–416",1,1
+REF_096,"snow, b. and snow, d. (1988). birds and berries, calton, england",1,1
+REF_097,"snow, b. k. and snow, d. w. (1972). feeding niches of hummingbirds in a trinidad valley. j. anim. ecol., 41, pp. 471–485",1,1
+REF_098,"snow, b.k., snow, d.w. 1971. the feeding ecology of tanagers and honeycreepers in trinidad. auk, 88: 291-322",1,1
+REF_099,"sorensen, a. e. (1981). interactions between birds and fruit in a temperate woodland. oecologia 50: 242–249",1,1
+REF_100,"stald l (2003). struktur og dynamik i rum og tid af et bestøvningsnetværk på tenerife, de kanariske øer. msc thesis (univ of aarhus, aarhus, denmark)",1,1
+REF_101,"stald, l., valido, a. & olesen, j. m. 2003. struktur og dynamik i rum og tid at et bestøvningsnetværk på tenerife, de kanariske øer. msc-thesis, univ. of aarhus, denmark",1,1
+REF_102,"tutin, c.e.g., ham, r.m., white, l.j.t., harrison, m.j.s. 1997. the primate community of the lopé reserve, gabon: diets, responses to fruit scarcity, and effects on biomass. american journal of primatology, 42: 1-24",1,1
+REF_103,"vizentin-bugoni, j., p. k. maruyama, v. j. debastiani, l. s. duarte, b. dalsgaard & m. sazima (2016). influences of sampling effort on detected patterns and structuring processes of a neotropical plant-hummingbird network. journal of animal ecology 85: 262-272",1,1
+REF_104,"vázquez dp. 2002. interactions among introduced ungulates, plants, and pollinators: a field study in the temperate forest of the southern andes. ph.d. dissertation. department of ecology and evolutionary biology, university of tennessee, knoxville",1,1
+REF_105,"walther, b. a. and brieschke, h. (2001). hummingbird-flower relationships in a mid-elevation rainforest near mindo, northwestern ecuador. internal. j. ornithol., 4, 115–135",1,1
+REF_106,"wheelwright, n.t., haber, w.a., murray, k.g., guindon, c. 1984. tropical fruit-eating birds and their food plants: a survey of a costa rican lower montane forest. biotropica, 16: 173-192",1,1
+REF_107,"witt p (1998) bsc thesis. univ of aarhus, aarhus, denmark",1,1
+REF_108,"yamazaki, k. & kato, m. 2003. flowering phenology and anthophilous insect community in a grassland ecosystem at mt. yufu, western japan. contributions from the biological laboratory, kyoto university 29: 255-318",1,1

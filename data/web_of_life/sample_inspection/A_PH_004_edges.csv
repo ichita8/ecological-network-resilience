@@ -1,0 +1,185 @@
+network,row_species,column_species,row_role,column_role,strength
+A_PH_004,Aristida hamulosa,Opeia obscura,Plant,Herbivore,1
+A_PH_004,Bouteloua curtipendula,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Ageneotettix deorum,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Arphia crassa,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Aulocara femoratum,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Boopedon nubilum,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Cordillacris crenulata,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Eritettix variabilis,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Leprus cyaneus,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Opeia obscura,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Philbostroma quadrimaculatum,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Psoloessa texana,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Syrbula fuscovittata,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Trachyrachys kiowa,Plant,Herbivore,1
+A_PH_004,Bouteloua gracilis,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Bouteloua hirsuta,Arphia crassa,Plant,Herbivore,1
+A_PH_004,Bouteloua hirsuta,Aulocara femoratum,Plant,Herbivore,1
+A_PH_004,Bouteloua hirsuta,Boopedon nubilum,Plant,Herbivore,1
+A_PH_004,Bouteloua hirsuta,Cordillacris crenulata,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Ageneotettix deorum,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Arphia crassa,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Aulocara femoratum,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Boopedon nubilum,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Cordillacris crenulata,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Eritettix variabilis,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Leprus cyaneus,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Melanoplus arizonae,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Opeia obscura,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Philbostroma quadrimaculatum,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Psoloessa texana,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Syrbula fuscovittata,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Trachyrachys kiowa,Plant,Herbivore,1
+A_PH_004,Buchloe dactyloides,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Calyophus hartwegii,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Calyophus hartwegii,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Condalia ericoides,Arphia crassa,Plant,Herbivore,1
+A_PH_004,Condalia ericoides,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Condalia ericoides,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Convolvulus equitans,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Convolvulus equitans,Melanoplus arizonae,Plant,Herbivore,1
+A_PH_004,Convolvulus equitans,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Convolvulus equitans,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Convolvulus equitans,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Convolvulus equitans,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Conyza coulteri,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Conyza coulteri,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Conyza coulteri,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Ageneotettix deorum,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Cordillacris crenulata,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Leprus cyaneus,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Melanoplus arizonae,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Opeia obscura,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Croton pottsii,Tropidolophus formosus,Plant,Herbivore,1
+A_PH_004,Cryptantha mexicana,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Dyschoriste linearis,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Eragrostis intermedia,Leprus cyaneus,Plant,Herbivore,1
+A_PH_004,Eragrostis intermedia,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Eragrostis intermedia,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Eupatorium greggii,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Gaura coccinea,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Gaura coccinea,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Gilia rigida,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Gilia rigida,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Hoffmannseggia glauca,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Hoffmannseggia glauca,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Iva dealbata,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Iva dealbata,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Iva dealbata,Eritettix variabilis,Plant,Herbivore,1
+A_PH_004,Iva dealbata,Melanoplus arizonae,Plant,Herbivore,1
+A_PH_004,Iva dealbata,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Iva dealbata,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Iva dealbata,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Ageneotettix deorum,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Arphia crassa,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Aulocara femoratum,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Boopedon nubilum,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Cordillacris crenulata,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Leprus cyaneus,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Opeia obscura,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Philbostroma quadrimaculatum,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Psoloessa texana,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Trachyrachys kiowa,Plant,Herbivore,1
+A_PH_004,Leptaloma cognata,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Linum rigidum,Cordillacris crenulata,Plant,Herbivore,1
+A_PH_004,Linum rigidum,Eritettix variabilis,Plant,Herbivore,1
+A_PH_004,Linum rigidum,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Machaeranthera scabrella,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Machaeranthera scabrella,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Muhlenbergia sp1 A_PH_004,Eritettix variabilis,Plant,Herbivore,1
+A_PH_004,Muhlenbergia sp1 A_PH_004,Opeia obscura,Plant,Herbivore,1
+A_PH_004,Muhlenbergia sp1 A_PH_004,Philbostroma quadrimaculatum,Plant,Herbivore,1
+A_PH_004,Muhlenbergia sp1 A_PH_004,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Oenothera sp1 A_PH_004,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Panicum obtusum,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Polygala longa,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Prosopis glandulosa,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Ratibida columnaris,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Ratibida columnaris,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Ratibida columnaris,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Ratibida columnaris,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Scleropogon brevifolius,Aulocara femoratum,Plant,Herbivore,1
+A_PH_004,Scleropogon brevifolius,Boopedon nubilum,Plant,Herbivore,1
+A_PH_004,Scleropogon brevifolius,Leprus cyaneus,Plant,Herbivore,1
+A_PH_004,Scleropogon brevifolius,Philbostroma quadrimaculatum,Plant,Herbivore,1
+A_PH_004,Scleropogon brevifolius,Psoloessa texana,Plant,Herbivore,1
+A_PH_004,Scleropogon brevifolius,Syrbula fuscovittata,Plant,Herbivore,1
+A_PH_004,Scleropogon brevifolius,Trachyrachys kiowa,Plant,Herbivore,1
+A_PH_004,Setaria leucopila,Boopedon nubilum,Plant,Herbivore,1
+A_PH_004,Setaria leucopila,Trachyrachys kiowa,Plant,Herbivore,1
+A_PH_004,Sporobolus sp1 A_PH_004,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Sporobolus sp1 A_PH_004,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Sporobolus sp1 A_PH_004,Psoloessa texana,Plant,Herbivore,1
+A_PH_004,Unidentified sp1 A_PH_004,Melanoplus arizonae,Plant,Herbivore,1
+A_PH_004,Unidentified sp1 A_PH_004,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Unidentified sp1 A_PH_004,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Unidentified sp1 A_PH_004,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Unidentified sp1 A_PH_004,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Unidentified sp10 A_PH_004,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Unidentified sp11 A_PH_004,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Unidentified sp12 A_PH_004,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Unidentified sp13 A_PH_004,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Unidentified sp13 A_PH_004,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Unidentified sp14 A_PH_004,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Unidentified sp15 A_PH_004,Arphia crassa,Plant,Herbivore,1
+A_PH_004,Unidentified sp15 A_PH_004,Syrbula fuscovittata,Plant,Herbivore,1
+A_PH_004,Unidentified sp16 A_PH_004,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Unidentified sp17 A_PH_004,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Unidentified sp2 A_PH_004,Psoloessa texana,Plant,Herbivore,1
+A_PH_004,Unidentified sp3 A_PH_004,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Unidentified sp3 A_PH_004,Melanoplus arizonae,Plant,Herbivore,1
+A_PH_004,Unidentified sp3 A_PH_004,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Unidentified sp3 A_PH_004,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Unidentified sp4 A_PH_004,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Unidentified sp4 A_PH_004,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Unidentified sp4 A_PH_004,Melanoplus arizonae,Plant,Herbivore,1
+A_PH_004,Unidentified sp4 A_PH_004,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Unidentified sp4 A_PH_004,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Unidentified sp4 A_PH_004,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Unidentified sp4 A_PH_004,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Unidentified sp5 A_PH_004,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Unidentified sp5 A_PH_004,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Unidentified sp5 A_PH_004,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Unidentified sp5 A_PH_004,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Unidentified sp5 A_PH_004,Phoetaliotes nebrascensis,Plant,Herbivore,1
+A_PH_004,Unidentified sp5 A_PH_004,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Unidentified sp6 A_PH_004,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Unidentified sp6 A_PH_004,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Unidentified sp6 A_PH_004,Trachyrachys kiowa,Plant,Herbivore,1
+A_PH_004,Unidentified sp6 A_PH_004,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Unidentified sp7 A_PH_004,Cordillacris crenulata,Plant,Herbivore,1
+A_PH_004,Unidentified sp7 A_PH_004,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Unidentified sp7 A_PH_004,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Unidentified sp8 A_PH_004,Ageneotettix deorum,Plant,Herbivore,1
+A_PH_004,Unidentified sp8 A_PH_004,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Unidentified sp8 A_PH_004,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Unidentified sp8 A_PH_004,Melanoplus lakinus,Plant,Herbivore,1
+A_PH_004,Unidentified sp9 A_PH_004,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Unidentified sp9 A_PH_004,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Verbena wrightii,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Xanthocephalum sp1 A_PH_004,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Xanthocephalum texanum,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Xanthocephalum texanum,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Xanthocephalum texanum,Melanoplus arizonae,Plant,Herbivore,1
+A_PH_004,Xanthocephalum texanum,Melanoplus gladstoni,Plant,Herbivore,1
+A_PH_004,Xanthocephalum texanum,Melanoplus glaucipes,Plant,Herbivore,1
+A_PH_004,Zinnia grandiflora,Melanoplus desultorius,Plant,Herbivore,1
+A_PH_004,Zinnia grandiflora,Trimerotropis pallidipennis,Plant,Herbivore,1
+A_PH_004,Ziziphus obtusifolius,Campylacantha olivacea,Plant,Herbivore,1
+A_PH_004,Ziziphus obtusifolius,Dactylotum variegatum,Plant,Herbivore,1
+A_PH_004,Ziziphus obtusifolius,Eritettix variabilis,Plant,Herbivore,1

@@ -1,0 +1,20 @@
+network,row_species,column_species,row_role,column_role,strength
+M_PA_001,Cecropia sp1 M_PA_001,Camponotus balzani,Plant,Ant,5
+M_PA_001,Cecropia sp1 M_PA_001,Pachychondyla luteola,Plant,Ant,19
+M_PA_001,Clidemia heterophylla,Crematogaster victima,Plant,Ant,7
+M_PA_001,Clidemia heterophylla,Pheidole minutula,Plant,Ant,8
+M_PA_001,Cordia nodosa,Allomerus demararae,Plant,Ant,35
+M_PA_001,Cordia nodosa,Azteca sp13 M_PA_001,Plant,Ant,1
+M_PA_001,Cordia nodosa,Azteca sp7 M_PA_001,Plant,Ant,4
+M_PA_001,Cordia nodosa,Crematogaster limata,Plant,Ant,2
+M_PA_001,Cordia nodosa,Gnamptogenys pleurodon,Plant,Ant,1
+M_PA_001,Maieta guianensis,Crematogaster victima,Plant,Ant,6
+M_PA_001,Maieta guianensis,Pheidole minutula,Plant,Ant,5
+M_PA_001,Pleurothyrium sp1 M_PA_001,Azteca sp12 M_PA_001,Plant,Ant,4
+M_PA_001,Pleurothyrium sp1 M_PA_001,Myrmelachista sp1 M_PA_001,Plant,Ant,10
+M_PA_001,Tococa sp1 M_PA_001,Azteca sp10 M_PA_001,Plant,Ant,1
+M_PA_001,Tococa sp1 M_PA_001,Azteca sp7 M_PA_001,Plant,Ant,2
+M_PA_001,Tococa sp1 M_PA_001,Azteca sp9 M_PA_001,Plant,Ant,5
+M_PA_001,Triplaris americana,Pseudomyrmex dendroicus,Plant,Ant,30
+M_PA_001,Triplaris poeppigiana,Azteca sp11 M_PA_001,Plant,Ant,2
+M_PA_001,Triplaris poeppigiana,Azteca sp8 M_PA_001,Plant,Ant,12

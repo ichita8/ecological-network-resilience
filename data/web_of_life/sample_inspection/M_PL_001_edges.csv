@@ -1,0 +1,362 @@
+network,row_species,column_species,row_role,column_role,strength
+M_PL_001,Acaena pinn,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Adesmia aconcaguensis,Chilimelissa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Adesmia aconcaguensis,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Adesmia aconcaguensis,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Adesmia aconcaguensis,Villa semifuscata,Plant,Pollinator,1
+M_PL_001,Adesmia aconcaguensis,Villa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Adesmia aconcaguensis,Xanthocolletes sicheli,Plant,Pollinator,1
+M_PL_001,Adesmia brachy,Anthidium decapsilum,Plant,Pollinator,1
+M_PL_001,Adesmia brachy,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Adesmia brachy,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Adesmia brachy,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Adesmia brachy,Xanthocolletes sicheli,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Alloscirtetica rufitarsis,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Anthidium chilensis,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Anthidium decapsilum,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Anthidium gayi,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Cadeguala occidentalis,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Chilicola sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Lithurgomma wagenknechti,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Megachile sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Mesonychium gayi,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Pseudolucia chilensis,Plant,Pollinator,1
+M_PL_001,Adesmia conferta,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Adesmia exilis,Xanthocolletes incahuasi,Plant,Pollinator,1
+M_PL_001,Adesmia exilis,Xanthocolletes sicheli,Plant,Pollinator,1
+M_PL_001,Adesmia exilis,Xanthocolletes sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Adesmia montana,Liphanthus sabulosus,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Anthidium decapsilum,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Cadeguala occidentalis,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Caupolicana dimidiata,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Xanthocolletes incahuasi,Plant,Pollinator,1
+M_PL_001,Adesmia radicifolia,Xanthocolletes sicheli,Plant,Pollinator,1
+M_PL_001,Alstroemeria pallida,Alloscirtetica gayi,Plant,Pollinator,1
+M_PL_001,Alstroemeria pallida,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Alstroemeria pallida,Anthidium funereum,Plant,Pollinator,1
+M_PL_001,Alstroemeria pallida,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Alstroemeria pallida,Panur sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Anarthrophyllum cumingii,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Anarthrophyllum cumingii,Etcheverrius chilensis,Plant,Pollinator,1
+M_PL_001,Anarthrophyllum cumingii,Hypodynerus sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Anarthrophyllum cumingii,Yramea lathonoides,Plant,Pollinator,1
+M_PL_001,Asteriscium aemocarpon,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Asteriscium aemocarpon,Villa hypoxantha,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Anthidium gayi,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Colletes fulvipes,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Colletes sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Mesonychium gayi,Plant,Pollinator,1
+M_PL_001,Astragalus curvicaulis,Unidentified sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Astragalus sp1 M_PL_001,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Astragalus sp1 M_PL_001,Anthidium gayi,Plant,Pollinator,1
+M_PL_001,Astragalus sp1 M_PL_001,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Astragalus sp1 M_PL_001,Megachile sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Astragalus sp1 M_PL_001,Pseudolucia chilensis,Plant,Pollinator,1
+M_PL_001,Barneoudia chilensis,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Berberis empetrifolia,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Berberis empetrifolia,Hypodynerus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Berberis empetrifolia,Panur sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Berberis empetrifolia,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Berberis empetrifolia,Unidentified sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Berberis empetrifolia,Unidentified sp5 M_PL_001,Plant,Pollinator,1
+M_PL_001,Berberis montana,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Berberis montana,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Bowlesia tropaeolifolia,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Bowlesia tropaeolifolia,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Bowlesia tropaeolifolia,Unidentified sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Habromyia lipoflava,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Hypodynerus sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Phulia nymphula,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Prosopochaeta sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Unidentified sp10 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Unidentified sp11 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Unidentified sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Unidentified sp8 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia affinis,Villa hypoxantha,Plant,Pollinator,1
+M_PL_001,Calandrinia uspallatensis,Anthidium chilensis,Plant,Pollinator,1
+M_PL_001,Calandrinia uspallatensis,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calandrinia uspallatensis,Liphanthus sabulosus,Plant,Pollinator,1
+M_PL_001,Calandrinia uspallatensis,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Calandrinia uspallatensis,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Calandrinia uspallatensis,Villa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calceolaria arachnoidea,Centris nigerrima,Plant,Pollinator,1
+M_PL_001,Calceolaria biflora,Centris sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calceolaria indet,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calceolaria montana,Centris nigerrima,Plant,Pollinator,1
+M_PL_001,Calceolaria montana,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Calceolaria montana,Megachile sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Cardamine nivalis,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Cerastium arvense,Coleoptera sp4 M_PL_001,Plant,Pollinator,1
+M_PL_001,Cerastium arvense,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Cerastium arvense,Habromyia lipoflava,Plant,Pollinator,1
+M_PL_001,Cerastium arvense,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Cerastium arvense,Unidentified sp13 M_PL_001,Plant,Pollinator,1
+M_PL_001,Cerastium arvense,Unidentified sp14 M_PL_001,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Lyophlaeba lugubris,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Spathipalpus philippii,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Villa arenarus,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Villa flavicura,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Villa gayi,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Villa hypoxantha,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Villa semifuscata,Plant,Pollinator,1
+M_PL_001,Chaetanthera euphrasioides,Villa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Chaetanthera microphylla,Euryglostromyia philippii,Plant,Pollinator,1
+M_PL_001,Chaetanthera microphylla,Faunula leucoglene,Plant,Pollinator,1
+M_PL_001,Chaetanthera microphylla,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Chuquiraga oppositifolia,Anthidium funereum,Plant,Pollinator,1
+M_PL_001,Chuquiraga oppositifolia,Bombus dahlbomii,Plant,Pollinator,1
+M_PL_001,Chuquiraga oppositifolia,Centris nigerrima,Plant,Pollinator,1
+M_PL_001,Chuquiraga oppositifolia,Faunula leucoglene,Plant,Pollinator,1
+M_PL_001,Chuquiraga oppositifolia,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Chuquiraga oppositifolia,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Chuquiraga oppositifolia,Villa semifuscata,Plant,Pollinator,1
+M_PL_001,Clarkia tenella,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Collomia biflora,Yramea lathonoides,Plant,Pollinator,1
+M_PL_001,Cynoglossum sp1 M_PL_001,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Erodium cicutarium,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Erodium cicutarium,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Euphorbia portulacoides,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Euphorbia portulacoides,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Euphorbia portulacoides,Unidentified sp16 M_PL_001,Plant,Pollinator,1
+M_PL_001,Euphorbia portulacoides,Unidentified sp5 M_PL_001,Plant,Pollinator,1
+M_PL_001,Euphorbia portulacoides,Unidentified sp9 M_PL_001,Plant,Pollinator,1
+M_PL_001,Haplopappus chysanthemifolius,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Haplopappus chysanthemifolius,Lepidoptera sp6 M_PL_001,Plant,Pollinator,1
+M_PL_001,Haplopappus chysanthemifolius,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Haplopappus sericeus,Auca coctei,Plant,Pollinator,1
+M_PL_001,Haplopappus sericeus,Etcheverrius chilensis,Plant,Pollinator,1
+M_PL_001,Haplopappus sericeus,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Haplopappus sericeus,Panur sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Haplopappus sericeus,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Haplopappus sericeus,Yramea lathonoides,Plant,Pollinator,1
+M_PL_001,Hippeastrum uni,Unidentified sp17 M_PL_001,Plant,Pollinator,1
+M_PL_001,Hypochoeris sp1 M_PL_001,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Hypochoeris sp1 M_PL_001,Ruizantheda mutabilis,Plant,Pollinator,1
+M_PL_001,Hypochoeris sp1 M_PL_001,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Hypochoeris sp1 M_PL_001,Tatochila mercedis,Plant,Pollinator,1
+M_PL_001,Hypochoeris sp1 M_PL_001,Unidentified sp18 M_PL_001,Plant,Pollinator,1
+M_PL_001,Hypochoeris sp1 M_PL_001,Villa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Lathyrus subandinus,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Lepidium suffruticosum,Ruiziella luctuosa,Plant,Pollinator,1
+M_PL_001,Leuceria landbeckii,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Leuceria landbeckii,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Leucocoryne ixioides,Lepidoptera sp6 M_PL_001,Plant,Pollinator,1
+M_PL_001,Leucocoryne pauciflora,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Leucocoryne pauciflora,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Leucocoryne pauciflora,Unidentified sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Loasa heterophylla,Anthidium chilensis,Plant,Pollinator,1
+M_PL_001,Loasa heterophylla,Bombus dahlbomii,Plant,Pollinator,1
+M_PL_001,Loasa heterophylla,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Loasa heterophylla,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Loasa sigmoidea,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Lupinus microcarpus,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Madia sativa,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Madia sativa,Corynurus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Madia sativa,Dialictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Madia sativa,Hemicolletes ruizii,Plant,Pollinator,1
+M_PL_001,Madia sativa,Unidentified sp7 M_PL_001,Plant,Pollinator,1
+M_PL_001,Malesherbia linearifolius,Centris sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Mulinum spinosum,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Mulinum spinosum,Panur sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Mulinum spinosum,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Mulinum spinosum,Villa flavicura,Plant,Pollinator,1
+M_PL_001,Mulinum spinosum,Villa guttapennis,Plant,Pollinator,1
+M_PL_001,Mulinum spinosum,Villa hypoxantha,Plant,Pollinator,1
+M_PL_001,Mulinum spinosum,Villa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Mulinum spinosum,Villa verdensis,Plant,Pollinator,1
+M_PL_001,Mustisia acerosa,Auca coctei,Plant,Pollinator,1
+M_PL_001,Mustisia acerosa,Etcheverrius chilensis,Plant,Pollinator,1
+M_PL_001,Mustisia acerosa,Lepidoptera sp6 M_PL_001,Plant,Pollinator,1
+M_PL_001,Mustisia sinuata,Bombus dahlbomii,Plant,Pollinator,1
+M_PL_001,Mustisia sinuata,Etcheverrius chilensis,Plant,Pollinator,1
+M_PL_001,Mustisia sinuata,Isepeolus niveiventris,Plant,Pollinator,1
+M_PL_001,Mustisia sinuata,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Mustisia sinuata,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Mustisia sinuata,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Mustisia subulata,Anthidium chilensis,Plant,Pollinator,1
+M_PL_001,Mustisia subulata,Auca coctei,Plant,Pollinator,1
+M_PL_001,Mustisia subulata,Etcheverrius chilensis,Plant,Pollinator,1
+M_PL_001,Nardophyllum lanatum,Auca coctei,Plant,Pollinator,1
+M_PL_001,Nardophyllum lanatum,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Nassauvia heterophylla,Dasybasis sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Nassauvia heterophylla,Unidentified sp7 M_PL_001,Plant,Pollinator,1
+M_PL_001,Nassauvia heterophylla,Vibrissomyia sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Nassauvia heterophylla,Villa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Nassauvia heterophylla,Villa verdensis,Plant,Pollinator,1
+M_PL_001,Nothoscordum andinum,Hypodynerus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oenothera acaulis,Lepidoptera sp6 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oxalis cinerea,Coleoptera sp4 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oxalis cinerea,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oxalis cinerea,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Oxalis geminata,Coleoptera sp4 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oxalis geminata,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oxalis geminata,Unidentified sp15 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oxalis sp1 M_PL_001,Coleoptera sp4 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oxalis sp1 M_PL_001,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Oxalis sp1 M_PL_001,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Perezia carthamoides,Auca coctei,Plant,Pollinator,1
+M_PL_001,Perezia carthamoides,Etcheverrius chilensis,Plant,Pollinator,1
+M_PL_001,Perezia carthamoides,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Perezia carthamoides,Ruiziella luctuosa,Plant,Pollinator,1
+M_PL_001,Perezia carthamoides,Truphloechus bellus,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Alloscirtetica rufitarsis,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Anthidium adriani,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Anthidium chilensis,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Anthidium decapsilum,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Anthidium gayi,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Anthophora incerta,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Anthophora sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Bombus dahlbomii,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Cadeguala occidentalis,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Colletes aruacariae,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Hypodynerus sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Lithurgomma wagenknechti,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Megachile sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Ruizantheda mutabilis,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Scaptia atra,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Svastrides melanura,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Truphloechus bellus,Plant,Pollinator,1
+M_PL_001,Phacelia secunda,Villa verdensis,Plant,Pollinator,1
+M_PL_001,Quinchamalium chilensis,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Quinchamalium chilensis,Lyophlaeba lugubris,Plant,Pollinator,1
+M_PL_001,Quinchamalium chilensis,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Quinchamalium chilensis,Villa hypoxantha,Plant,Pollinator,1
+M_PL_001,Rhodophiala montana,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Rhodophiala montana,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Salpiglossus sp1 M_PL_001,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sanicula graveolens,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sanicula graveolens,Prosopochaeta caliginosa,Plant,Pollinator,1
+M_PL_001,Sanicula graveolens,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Sanicula graveolens,Unidentified sp8 M_PL_001,Plant,Pollinator,1
+M_PL_001,Schizanthus grahamii,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Schizanthus grahamii,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Schizanthus grahamii,Villa verdensis,Plant,Pollinator,1
+M_PL_001,Scypanthus elegans,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Scypanthus elegans,Anthidium chilensis,Plant,Pollinator,1
+M_PL_001,Scypanthus elegans,Anthidium funereum,Plant,Pollinator,1
+M_PL_001,Scypanthus elegans,Coelioxys sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Scypanthus elegans,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Scypanthus elegans,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Scypanthus elegans,Megachile sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Anthidium chilensis,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Anthidium funereum,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Anthophora incerta,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Auca coctei,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Bombus dahlbomii,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Eristalis tenax,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Etcheverrius chilensis,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Faunula leucoglene,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Hypodynerus sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Panur sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Ruiziella luctuosa,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Spathipalpus philippii,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Tatochila mercedis,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Unidentified sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Villa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio bustillosianus,Villa verdensis,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Andinus venustus,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Anthidium funereum,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Auca coctei,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Bombus dahlbomii,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Chilicola sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Etcheverrius chilensis,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Hypodynerus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Panur sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio erucaeformis,Tatochila sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio francisci,Anthidium funereum,Plant,Pollinator,1
+M_PL_001,Senecio francisci,Auca coctei,Plant,Pollinator,1
+M_PL_001,Senecio francisci,Hypsochila wagenknechti,Plant,Pollinator,1
+M_PL_001,Senecio francisci,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Senecio francisci,Panur sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio francisci,Unidentified sp5 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio francisci,Unidentified sp7 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio lithostaurus,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Senecio lithostaurus,Auca coctei,Plant,Pollinator,1
+M_PL_001,Senecio lithostaurus,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Sisyrinchium arenarium,Anthidium chilensis,Plant,Pollinator,1
+M_PL_001,Sisyrinchium arenarium,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium arenarium,Caenohalictus sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium arenarium,Caenohalictus sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium arenarium,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium arenarium,Megachile sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium arenarium,Tapinotaspis caerulea,Plant,Pollinator,1
+M_PL_001,Sisyrinchium arenarium,Tapinotaspis herbsti,Plant,Pollinator,1
+M_PL_001,Sisyrinchium junceum,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium junceum,Coleoptera sp4 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium junceum,Elaphroptera relicta,Plant,Pollinator,1
+M_PL_001,Sisyrinchium junceum,Unidentified sp3 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium junceum,Unidentified sp5 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium philippii,Caenohalictus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium philippii,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Sisyrinchium philippii,Coleoptera sp4 M_PL_001,Plant,Pollinator,1
+M_PL_001,Sisyrinchium philippii,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Solanum tomatillo,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Solenomelus sisyrinchium,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Stachys albi,Alloscirtetica gayi,Plant,Pollinator,1
+M_PL_001,Stachys albi,Alloscirtetica rufitarsis,Plant,Pollinator,1
+M_PL_001,Stachys albi,Alloscirtetica sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Stachys albi,Anthidium gayi,Plant,Pollinator,1
+M_PL_001,Stachys albi,Anthophora sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Stachys albi,Bombus dahlbomii,Plant,Pollinator,1
+M_PL_001,Stachys albi,Cadeguala occidentalis,Plant,Pollinator,1
+M_PL_001,Stachys albi,Centris cineraria,Plant,Pollinator,1
+M_PL_001,Stachys albi,Centris nigerrima,Plant,Pollinator,1
+M_PL_001,Stachys albi,Euryglostromyia philippii,Plant,Pollinator,1
+M_PL_001,Stachys albi,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Stachys albi,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Stachys albi,Megachile sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Stachys albi,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Tetraglochin alatum,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Trichocereus chiloensis,Liphanthus sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Trichocereus chiloensis,Liphanthus sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Tristagma sessile,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Tropaeolum polyph,Megachile semirufa,Plant,Pollinator,1
+M_PL_001,Tropaeolum sessilifolium,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Tropaeolum sessilifolium,Megachile sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Tropaeolum tricolor,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Valeriana gracileps,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Valeriana gracileps,Scaeva melanostoma,Plant,Pollinator,1
+M_PL_001,Valeriana gracileps,Unidentified sp12 M_PL_001,Plant,Pollinator,1
+M_PL_001,Verbena scoparia,Chaetodemoticus chilensis,Plant,Pollinator,1
+M_PL_001,Verbena scoparia,Diptera sp2 M_PL_001,Plant,Pollinator,1
+M_PL_001,Verbena scoparia,Hymenoptera sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Verbena scoparia,Lyophlaeba lugubris,Plant,Pollinator,1
+M_PL_001,Verbena scoparia,Truphloechus bellus,Plant,Pollinator,1
+M_PL_001,Verbena scoparia,Villa durvillei,Plant,Pollinator,1
+M_PL_001,Verbena scoparia,Villa sp1 M_PL_001,Plant,Pollinator,1
+M_PL_001,Viviania marifolia,Chaetodemoticus chilensis,Plant,Pollinator,1
+M_PL_001,Viviania marifolia,Diptera sp2 M_PL_001,Plant,Pollinator,1

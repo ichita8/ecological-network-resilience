@@ -1,0 +1,6 @@
+model,networks,provisional_publication_clusters,r_squared,adjusted_r_squared
+Primary random-removal robustness,285,108,0.5350934002776981,0.5317961903505897
+Source-matrix weighting-status sensitivity,285,108,0.5441339102064661,0.5392670124506631
+Interaction-retention outcome,285,108,0.6828065125547802,0.6805569133530411
+Category-adjusted sensitivity,276,101,0.6036911907444563,0.5963521387212054
+Targeted-removal robustness,285,108,0.5449603290156009,0.5417330973064918

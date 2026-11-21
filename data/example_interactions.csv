@@ -1,0 +1,11 @@
+source,target,interaction_type
+oak,caterpillar,herbivory
+oak,aphid,herbivory
+caterpillar,bird,predation
+aphid,ladybird,predation
+bird,hawk,predation
+oak,mycorrhiza,mutualism
+mycorrhiza,oak,mutualism
+aphid,ant,mutualism
+ant,aphid,mutualism
+caterpillar,parasitoid,parasitism

@@ -1,0 +1,15 @@
+model,term,vif
+Primary random-removal robustness,richness_z,2.180501005075391
+Primary random-removal robustness,connectance_z,2.18050100507539
+Source-matrix weighting-status sensitivity,richness_z,2.2490948772532016
+Source-matrix weighting-status sensitivity,connectance_z,2.1881794344801353
+Source-matrix weighting-status sensitivity,weighted_original,1.0424997488528012
+Interaction-retention outcome,richness_z,2.180501005075391
+Interaction-retention outcome,connectance_z,2.18050100507539
+Category-adjusted sensitivity,C(interaction_type)[T.Host-Parasite],3.7331559885605308
+Category-adjusted sensitivity,C(interaction_type)[T.Pollination],5.397609447288755
+Category-adjusted sensitivity,C(interaction_type)[T.Seed Dispersal],3.1230622334174285
+Category-adjusted sensitivity,richness_z,2.613677421804842
+Category-adjusted sensitivity,connectance_z,2.726213307890851
+Targeted-removal robustness,richness_z,2.180501005075391
+Targeted-removal robustness,connectance_z,2.18050100507539

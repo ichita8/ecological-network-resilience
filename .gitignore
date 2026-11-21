@@ -1,0 +1,40 @@
+﻿# Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.vscode/
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Downloaded or unrelated raw data
+data/mangal_raw/
+data/web_of_life/full_cache/
+
+# Large simulation output: retain summary and mean curves
+results/web_of_life/experiment_10000/experiment_replicates.csv
+
+# Intermediate and pilot runs
+results/web_of_life/experiment/
+results/web_of_life/experiment_10000_pilot/
+results/web_of_life/statistical_analysis/
+
+# Archived project versions and obsolete experiment outputs
+README_ecological_networks_v2.txt
+results/ecological_robustness/
+results/ecological_robustness_v2/
+results/example/
+results/mangal_*.csv
+
+# Legacy and backup analysis scripts
+scripts/analyze_ecological_networks_v2.py
+scripts/analyze_web_of_life_100rep_backup.py
+scripts/download_mangal_catalog.py
+scripts/run_analysis.py
+scripts/screen_mangal.py
+scripts/v1_analyze_ecological_networks.py

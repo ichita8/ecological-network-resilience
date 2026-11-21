@@ -1,0 +1,25 @@
+species,side,role,kingdom,order,family,rank,interactions,abundance
+Allomerus demararae,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Azteca sp10 M_PA_001,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Azteca sp11 M_PA_001,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Azteca sp12 M_PA_001,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Azteca sp13 M_PA_001,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Azteca sp7 M_PA_001,column,Ant,Animals,Hymenoptera,Formicidae,Species,2,0
+Azteca sp8 M_PA_001,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Azteca sp9 M_PA_001,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Camponotus balzani,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Crematogaster limata,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Crematogaster victima,column,Ant,Animals,Hymenoptera,Formicidae,Species,2,0
+Gnamptogenys pleurodon,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Myrmelachista sp1 M_PA_001,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Pachychondyla luteola,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Pheidole minutula,column,Ant,Animals,Hymenoptera,Formicidae,Species,2,0
+Pseudomyrmex dendroicus,column,Ant,Animals,Hymenoptera,Formicidae,Species,1,0
+Cecropia sp1 M_PA_001,row,Plant,Plants,Rosales,Urticaceae,,2,0
+Clidemia heterophylla,row,Plant,Plants,Myrtales,Melastomataceae,,2,0
+Cordia nodosa,row,Plant,Plants,Boraginales,Boraginaceae,Species,5,0
+Maieta guianensis,row,Plant,Plants,Myrtales,Melastomataceae,,2,0
+Pleurothyrium sp1 M_PA_001,row,Plant,Plants,Laurales,Lauraceae,,2,0
+Tococa sp1 M_PA_001,row,Plant,Plants,Myrtales,Melastomataceae,,3,0
+Triplaris americana,row,Plant,Plants,Caryophyllales,Polygonaceae,Species,1,0
+Triplaris poeppigiana,row,Plant,Plants,Caryophyllales,Polygonaceae,,2,0

@@ -1,0 +1,51 @@
+network,row_species,column_species,row_role,column_role,strength
+M_SD_001,Celastrus orbiculatus,Bombycilla cedrorum,Plant,Seed disperser,4
+M_SD_001,Celastrus orbiculatus,Cardinalis cardinalis,Plant,Seed disperser,13
+M_SD_001,Celastrus orbiculatus,Catharus guttata,Plant,Seed disperser,3
+M_SD_001,Celastrus orbiculatus,Euphagus carolinus,Plant,Seed disperser,1
+M_SD_001,Celastrus orbiculatus,Junco hyemalis,Plant,Seed disperser,28
+M_SD_001,Celastrus orbiculatus,Mimus polyglottos,Plant,Seed disperser,4
+M_SD_001,Celastrus orbiculatus,Parus bicolor,Plant,Seed disperser,3
+M_SD_001,Celastrus orbiculatus,Sturnus vulgaris,Plant,Seed disperser,3
+M_SD_001,Celastrus orbiculatus,Turdus migratorius,Plant,Seed disperser,3
+M_SD_001,Celastrus orbiculatus,Zonotrichia albicollis,Plant,Seed disperser,32
+M_SD_001,Cornus florida,Cardinalis cardinalis,Plant,Seed disperser,2
+M_SD_001,Cornus florida,Carpodacus purpureus,Plant,Seed disperser,2
+M_SD_001,Cornus florida,Catharus guttata,Plant,Seed disperser,6
+M_SD_001,Cornus florida,Colaptes auratus,Plant,Seed disperser,1
+M_SD_001,Cornus florida,Junco hyemalis,Plant,Seed disperser,51
+M_SD_001,Cornus florida,Mimus polyglottos,Plant,Seed disperser,1
+M_SD_001,Cornus florida,Parus bicolor,Plant,Seed disperser,1
+M_SD_001,Cornus florida,Pipilo erythophtalmus,Plant,Seed disperser,1
+M_SD_001,Cornus florida,Quiscalus quiscula,Plant,Seed disperser,90
+M_SD_001,Cornus florida,Turdus migratorius,Plant,Seed disperser,110
+M_SD_001,Cornus florida,Vireo olivaceus,Plant,Seed disperser,1
+M_SD_001,Cornus florida,Zonotrichia albicollis,Plant,Seed disperser,13
+M_SD_001,Lindera benzoin,Cardinalis cardinalis,Plant,Seed disperser,1
+M_SD_001,Lindera benzoin,Catharus guttata,Plant,Seed disperser,1
+M_SD_001,Lindera benzoin,Turdus migratorius,Plant,Seed disperser,21
+M_SD_001,Lindera benzoin,Zenaidura macroura,Plant,Seed disperser,1
+M_SD_001,Lindera benzoin,Zonotrichia albicollis,Plant,Seed disperser,20
+M_SD_001,Lonicera japonica,Cardinalis cardinalis,Plant,Seed disperser,2
+M_SD_001,Lonicera japonica,Junco hyemalis,Plant,Seed disperser,1
+M_SD_001,Lonicera japonica,Zonotrichia albicollis,Plant,Seed disperser,24
+M_SD_001,Rhus radicans,Colaptes auratus,Plant,Seed disperser,1
+M_SD_001,Rhus radicans,Dendroica coronata,Plant,Seed disperser,25
+M_SD_001,Rhus radicans,Junco hyemalis,Plant,Seed disperser,10
+M_SD_001,Rhus radicans,Melanerpes carolinensis,Plant,Seed disperser,2
+M_SD_001,Rhus radicans,Mimus polyglottos,Plant,Seed disperser,1
+M_SD_001,Rhus radicans,Parus atricapillus,Plant,Seed disperser,16
+M_SD_001,Rhus radicans,Parus bicolor,Plant,Seed disperser,3
+M_SD_001,Rhus radicans,Picoides pubescens,Plant,Seed disperser,8
+M_SD_001,Rhus radicans,Picoides villosus,Plant,Seed disperser,3
+M_SD_001,Rhus radicans,Zonotrichia albicollis,Plant,Seed disperser,1
+M_SD_001,Smilax rotundifolia,Cardinalis cardinalis,Plant,Seed disperser,6
+M_SD_001,Smilax rotundifolia,Mimus polyglottos,Plant,Seed disperser,1
+M_SD_001,Smilax rotundifolia,Zonotrichia albicollis,Plant,Seed disperser,27
+M_SD_001,Vitis sp1 M_SD_001,Cardinalis cardinalis,Plant,Seed disperser,10
+M_SD_001,Vitis sp1 M_SD_001,Melanerpes carolinensis,Plant,Seed disperser,2
+M_SD_001,Vitis sp1 M_SD_001,Parus bicolor,Plant,Seed disperser,1
+M_SD_001,Vitis sp1 M_SD_001,Quiscalus quiscula,Plant,Seed disperser,72
+M_SD_001,Vitis sp1 M_SD_001,Turdus migratorius,Plant,Seed disperser,17
+M_SD_001,Vitis sp1 M_SD_001,Zenaidura macroura,Plant,Seed disperser,1
+M_SD_001,Vitis sp1 M_SD_001,Zonotrichia albicollis,Plant,Seed disperser,4

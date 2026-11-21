@@ -1,0 +1,186 @@
+network,row_species,column_species,row_role,column_role,strength
+FW_001,Acestrorhyncus lacustris,Hoplias malabaricus,Prey,Predator,0.1
+FW_001,Acestrorhyncus lacustris,Rhaphiodon vulpinus,Prey,Predator,0.1
+FW_001,Aquatic macrophytes,Astyanax altiparanae,Prey,Predator,0.2
+FW_001,Aquatic macrophytes,Brycon orbignyanus,Prey,Predator,0.3
+FW_001,Aquatic macrophytes,Hoplosternum littorale,Prey,Predator,0.1
+FW_001,Aquatic macrophytes,Insects,Prey,Predator,0.3
+FW_001,Aquatic macrophytes,Leporinus friderici,Prey,Predator,0.3
+FW_001,Aquatic macrophytes,Leporinus obtusidens,Prey,Predator,0.3
+FW_001,Aquatic macrophytes,Other benthos feeders,Prey,Predator,0.1
+FW_001,Aquatic macrophytes,Other insectivores,Prey,Predator,0.2
+FW_001,Aquatic macrophytes,Other omnivores,Prey,Predator,0.15
+FW_001,Aquatic macrophytes,Parauchenipterus galeatus,Prey,Predator,0.4
+FW_001,Aquatic macrophytes,Pimelodus maculatus,Prey,Predator,0.05
+FW_001,Aquatic macrophytes,Pterodoras granulosus,Prey,Predator,0.5
+FW_001,Aquatic macrophytes,Schizodon altoparanae,Prey,Predator,0.7
+FW_001,Aquatic macrophytes,Schizodon borellii,Prey,Predator,0.7
+FW_001,Astyanax altiparanae,Acestrorhyncus lacustris,Prey,Predator,0.2
+FW_001,Astyanax altiparanae,Brycon orbignyanus,Prey,Predator,0.1
+FW_001,Astyanax altiparanae,Hemisorubin platyrhynchos,Prey,Predator,0.15
+FW_001,Astyanax altiparanae,Leporinus friderici,Prey,Predator,0.1
+FW_001,Astyanax altiparanae,Leporinus obtusidens,Prey,Predator,0.1
+FW_001,Astyanax altiparanae,Other insectivores,Prey,Predator,0.1
+FW_001,Astyanax altiparanae,Other piscivores,Prey,Predator,0.2
+FW_001,Astyanax altiparanae,Pimelodus maculatus,Prey,Predator,0.1
+FW_001,Astyanax altiparanae,Plagioscion squamosissimus,Prey,Predator,0.15
+FW_001,Astyanax altiparanae,Pseudoplatystoma corruscans,Prey,Predator,0.2
+FW_001,Astyanax altiparanae,Rhaphiodon vulpinus,Prey,Predator,0.2
+FW_001,Astyanax altiparanae,Salminus brasiliensis,Prey,Predator,0.1
+FW_001,Astyanax altiparanae,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Astyanax altiparanae,Serrasalmus spilopleura,Prey,Predator,0.1
+FW_001,Auchenipterus nuchalis,Acestrorhyncus lacustris,Prey,Predator,0.1
+FW_001,Auchenipterus nuchalis,Pseudoplatystoma corruscans,Prey,Predator,0.1
+FW_001,Auchenipterus nuchalis,Serrasalmus spilopleura,Prey,Predator,0.1
+FW_001,Benthos,Cyphocharax modestus,Prey,Predator,0.1
+FW_001,Benthos,Hoplosternum littorale,Prey,Predator,0.2
+FW_001,Benthos,Iheringichthys labrosus,Prey,Predator,0.35
+FW_001,Benthos,Leporinus friderici,Prey,Predator,0.05
+FW_001,Benthos,Leporinus obtusidens,Prey,Predator,0.05
+FW_001,Benthos,Loricariichthys platymetopon,Prey,Predator,0.1
+FW_001,Benthos,Other benthos feeders,Prey,Predator,0.35
+FW_001,Benthos,Other detritus feeders,Prey,Predator,0.1
+FW_001,Benthos,Other omnivores,Prey,Predator,0.15
+FW_001,Benthos,Pimelodus maculatus,Prey,Predator,0.25
+FW_001,Benthos,Prochilodus lineatus,Prey,Predator,0.15
+FW_001,Benthos,Pterodoras granulosus,Prey,Predator,0.1
+FW_001,Benthos,Steindachnerina insculpta,Prey,Predator,0.1
+FW_001,Brycon orbignyanus,Hemisorubin platyrhynchos,Prey,Predator,0.1
+FW_001,Brycon orbignyanus,Rhaphiodon vulpinus,Prey,Predator,0.1
+FW_001,Cyphocharax modestus,Acestrorhyncus lacustris,Prey,Predator,0.1
+FW_001,Detritus,Astyanax altiparanae,Prey,Predator,0.1
+FW_001,Detritus,Benthos,Prey,Predator,0.5
+FW_001,Detritus,Cyphocharax modestus,Prey,Predator,0.55
+FW_001,Detritus,Hoplosternum littorale,Prey,Predator,0.3
+FW_001,Detritus,Hypostomus sp,Prey,Predator,0.8
+FW_001,Detritus,Iheringichthys labrosus,Prey,Predator,0.25
+FW_001,Detritus,Insects,Prey,Predator,0.7
+FW_001,Detritus,Leporinus friderici,Prey,Predator,0.2
+FW_001,Detritus,Leporinus obtusidens,Prey,Predator,0.2
+FW_001,Detritus,Loricariichthys platymetopon,Prey,Predator,0.6
+FW_001,Detritus,Other benthos feeders,Prey,Predator,0.3
+FW_001,Detritus,Other detritus feeders,Prey,Predator,0.7
+FW_001,Detritus,Other omnivores,Prey,Predator,0.1
+FW_001,Detritus,Pimelodus maculatus,Prey,Predator,0.1
+FW_001,Detritus,Prochilodus lineatus,Prey,Predator,0.7
+FW_001,Detritus,Pterodoras granulosus,Prey,Predator,0.1
+FW_001,Detritus,Steindachnerina insculpta,Prey,Predator,0.55
+FW_001,Detritus,Trachydoras paraguayensis,Prey,Predator,0.55
+FW_001,Detritus,Zooplankton,Prey,Predator,0.5
+FW_001,Hemisorubin platyrhynchos,Pseudoplatystoma corruscans,Prey,Predator,0.1
+FW_001,Hoplias malabaricus,Hoplias malabaricus,Prey,Predator,0.2
+FW_001,Hoplias malabaricus,Salminus brasiliensis,Prey,Predator,0.2
+FW_001,Hoplosternum littorale,Pseudoplatystoma corruscans,Prey,Predator,0.3
+FW_001,Hypophthalmus edentatus,Other piscivores,Prey,Predator,0.1
+FW_001,Hypophthalmus edentatus,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Hypophthalmus edentatus,Serrasalmus spilopleura,Prey,Predator,0.1
+FW_001,Hypostomus sp,Salminus brasiliensis,Prey,Predator,0.2
+FW_001,Iheringichthys labrosus,Acestrorhyncus lacustris,Prey,Predator,0.2
+FW_001,Insects,Astyanax altiparanae,Prey,Predator,0.3
+FW_001,Insects,Auchenipterus nuchalis,Prey,Predator,0.7
+FW_001,Insects,Brycon orbignyanus,Prey,Predator,0.55
+FW_001,Insects,Hoplosternum littorale,Prey,Predator,0.2
+FW_001,Insects,Iheringichthys labrosus,Prey,Predator,0.2
+FW_001,Insects,Leporinus friderici,Prey,Predator,0.2
+FW_001,Insects,Leporinus obtusidens,Prey,Predator,0.2
+FW_001,Insects,Loricariichthys platymetopon,Prey,Predator,0.2
+FW_001,Insects,Other benthos feeders,Prey,Predator,0.1
+FW_001,Insects,Other detritus feeders,Prey,Predator,0.1
+FW_001,Insects,Other insectivores,Prey,Predator,0.6
+FW_001,Insects,Other omnivores,Prey,Predator,0.3
+FW_001,Insects,Parauchenipterus galeatus,Prey,Predator,0.6
+FW_001,Insects,Pimelodus maculatus,Prey,Predator,0.1
+FW_001,Insects,Pterodoras granulosus,Prey,Predator,0.1
+FW_001,Insects,Trachydoras paraguayensis,Prey,Predator,0.15
+FW_001,Leporinus friderici,Pimelodus maculatus,Prey,Predator,0.05
+FW_001,Leporinus friderici,Plagioscion squamosissimus,Prey,Predator,0.1
+FW_001,Leporinus obtusidens,Astyanax altiparanae,Prey,Predator,0.1
+FW_001,Leporinus obtusidens,Hoplias malabaricus,Prey,Predator,0.2
+FW_001,Leporinus obtusidens,Pseudoplatystoma corruscans,Prey,Predator,0.1
+FW_001,Loricariichthys platymetopon,Salminus brasiliensis,Prey,Predator,0.15
+FW_001,Other benthos feeders,Auchenipterus nuchalis,Prey,Predator,0.1
+FW_001,Other benthos feeders,Rhaphiodon vulpinus,Prey,Predator,0.1
+FW_001,Other benthos feeders,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Other benthos feeders,Serrasalmus spilopleura,Prey,Predator,0.1
+FW_001,Other detritus feeders,Acestrorhyncus lacustris,Prey,Predator,0.1
+FW_001,Other detritus feeders,Hemisorubin platyrhynchos,Prey,Predator,0.1
+FW_001,Other detritus feeders,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Other detritus feeders,Serrasalmus spilopleura,Prey,Predator,0.1
+FW_001,Other insectivores,Acestrorhyncus lacustris,Prey,Predator,0.1
+FW_001,Other insectivores,Brycon orbignyanus,Prey,Predator,0.05
+FW_001,Other insectivores,Hemisorubin platyrhynchos,Prey,Predator,0.1
+FW_001,Other insectivores,Hoplias malabaricus,Prey,Predator,0.1
+FW_001,Other insectivores,Pimelodus maculatus,Prey,Predator,0.05
+FW_001,Other insectivores,Plagioscion squamosissimus,Prey,Predator,0.1
+FW_001,Other insectivores,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Other omnivores,Acestrorhyncus lacustris,Prey,Predator,0.1
+FW_001,Other omnivores,Astyanax altiparanae,Prey,Predator,0.1
+FW_001,Other omnivores,Leporinus friderici,Prey,Predator,0.1
+FW_001,Other omnivores,Leporinus obtusidens,Prey,Predator,0.1
+FW_001,Other omnivores,Other piscivores,Prey,Predator,0.2
+FW_001,Other omnivores,Salminus brasiliensis,Prey,Predator,0.1
+FW_001,Other omnivores,Serrasalmus marginatus,Prey,Predator,0.05
+FW_001,Other omnivores,Serrasalmus spilopleura,Prey,Predator,0.1
+FW_001,Other piscivores,Other piscivores,Prey,Predator,0.1
+FW_001,Other piscivores,Pseudoplatystoma corruscans,Prey,Predator,0.1
+FW_001,Parauchenipterus galeatus,Plagioscion squamosissimus,Prey,Predator,0.15
+FW_001,Parauchenipterus galeatus,Rhaphiodon vulpinus,Prey,Predator,0.2
+FW_001,Periphyton,Benthos,Prey,Predator,0.5
+FW_001,Periphyton,Iheringichthys labrosus,Prey,Predator,0.1
+FW_001,Periphyton,Other omnivores,Prey,Predator,0.1
+FW_001,Phytoplankton,Astyanax altiparanae,Prey,Predator,0.1
+FW_001,Phytoplankton,Cyphocharax modestus,Prey,Predator,0.35
+FW_001,Phytoplankton,Hypophthalmus edentatus,Prey,Predator,0.3
+FW_001,Phytoplankton,Hypostomus sp,Prey,Predator,0.2
+FW_001,Phytoplankton,Leporinus friderici,Prey,Predator,0.05
+FW_001,Phytoplankton,Leporinus obtusidens,Prey,Predator,0.05
+FW_001,Phytoplankton,Loricariichthys platymetopon,Prey,Predator,0.1
+FW_001,Phytoplankton,Other benthos feeders,Prey,Predator,0.05
+FW_001,Phytoplankton,Other detritus feeders,Prey,Predator,0.1
+FW_001,Phytoplankton,Other omnivores,Prey,Predator,0.1
+FW_001,Phytoplankton,Pimelodus maculatus,Prey,Predator,0.05
+FW_001,Phytoplankton,Prochilodus lineatus,Prey,Predator,0.15
+FW_001,Phytoplankton,Pterodoras granulosus,Prey,Predator,0.1
+FW_001,Phytoplankton,Schizodon altoparanae,Prey,Predator,0.3
+FW_001,Phytoplankton,Schizodon borellii,Prey,Predator,0.3
+FW_001,Phytoplankton,Steindachnerina insculpta,Prey,Predator,0.35
+FW_001,Phytoplankton,Zooplankton,Prey,Predator,0.5
+FW_001,Pimelodus maculatus,Hemisorubin platyrhynchos,Prey,Predator,0.25
+FW_001,Plagioscion squamosissimus,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Plagioscion squamosissimus,Serrasalmus spilopleura,Prey,Predator,0.2
+FW_001,Prochilodus lineatus,Hoplias malabaricus,Prey,Predator,0.2
+FW_001,Prochilodus lineatus,Other piscivores,Prey,Predator,0.2
+FW_001,Prochilodus lineatus,Plagioscion squamosissimus,Prey,Predator,0.3
+FW_001,Prochilodus lineatus,Rhaphiodon vulpinus,Prey,Predator,0.2
+FW_001,Prochilodus lineatus,Salminus brasiliensis,Prey,Predator,0.15
+FW_001,Prochilodus lineatus,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Prochilodus lineatus,Serrasalmus spilopleura,Prey,Predator,0.1
+FW_001,Pseudoplatystoma corruscans,Other piscivores,Prey,Predator,0.05
+FW_001,Pseudoplatystoma corruscans,Serrasalmus marginatus,Prey,Predator,0.05
+FW_001,Pterodoras granulosus,Hoplias malabaricus,Prey,Predator,0.2
+FW_001,Pterodoras granulosus,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Pterodoras granulosus,Serrasalmus spilopleura,Prey,Predator,0.1
+FW_001,Rhaphiodon vulpinus,Rhaphiodon vulpinus,Prey,Predator,0.1
+FW_001,Salminus brasiliensis,Other piscivores,Prey,Predator,0.05
+FW_001,Schizodon altoparanae,Salminus brasiliensis,Prey,Predator,0.1
+FW_001,Schizodon borellii,Acestrorhyncus lacustris,Prey,Predator,0.1
+FW_001,Schizodon borellii,Other piscivores,Prey,Predator,0.1
+FW_001,Serrasalmus marginatus,Hemisorubin platyrhynchos,Prey,Predator,0.1
+FW_001,Serrasalmus marginatus,Pimelodus maculatus,Prey,Predator,0.05
+FW_001,Serrasalmus marginatus,Plagioscion squamosissimus,Prey,Predator,0.1
+FW_001,Serrasalmus marginatus,Pseudoplatystoma corruscans,Prey,Predator,0.1
+FW_001,Serrasalmus marginatus,Serrasalmus marginatus,Prey,Predator,0.1
+FW_001,Serrasalmus spilopleura,Plagioscion squamosissimus,Prey,Predator,0.1
+FW_001,Steindachnerina insculpta,Hemisorubin platyrhynchos,Prey,Predator,0.2
+FW_001,Trachydoras paraguayensis,Pimelodus maculatus,Prey,Predator,0.1
+FW_001,Zooplankton,Astyanax altiparanae,Prey,Predator,0.1
+FW_001,Zooplankton,Auchenipterus nuchalis,Prey,Predator,0.2
+FW_001,Zooplankton,Hoplosternum littorale,Prey,Predator,0.2
+FW_001,Zooplankton,Hypophthalmus edentatus,Prey,Predator,0.7
+FW_001,Zooplankton,Iheringichthys labrosus,Prey,Predator,0.1
+FW_001,Zooplankton,Other benthos feeders,Prey,Predator,0.1
+FW_001,Zooplankton,Other insectivores,Prey,Predator,0.1
+FW_001,Zooplankton,Other omnivores,Prey,Predator,0.1
+FW_001,Zooplankton,Pimelodus maculatus,Prey,Predator,0.1
+FW_001,Zooplankton,Pterodoras granulosus,Prey,Predator,0.1
+FW_001,Zooplankton,Trachydoras paraguayensis,Prey,Predator,0.3
