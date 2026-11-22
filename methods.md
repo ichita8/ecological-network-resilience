@@ -1,5 +1,4 @@
 <CodeBlock language="markdown" editable>
-### Research Methods
 
 ## 1. Research Design
 
