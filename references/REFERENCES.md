@@ -121,6 +121,7 @@ The following source references were extracted from the validated Web of Life ne
 - Dormann, C. F., et al. (2008). Introducing the bipartite package: analysing ecological networks. *R News*, 8(2), 8?11. https://journal.r-project.org/articles/RN-2008-010/
 - Ings, T. C., et al. (2009). Ecological networks?beyond food webs. *Journal of Animal Ecology*, 78(2), 253?269. https://doi.org/10.1111/j.1365-2656.2008.01460.x
 - Jordano, P. (1987). Patterns of mutualistic interactions in pollination and seed dispersal: connectance, dependence asymmetries, and coevolution. *The American Naturalist*, 129(5), 657?677. https://doi.org/10.1086/284665
+- Wandelt, S., Sun, X., Feng, D., Zanin, M., & Havlin, S. (2018). A Comparative Analysis of Approaches to Network Dismantling. Scientific Reports, 8, 13513. https://pmc.ncbi.nlm.nih.gov/articles/PMC6131543/.
 
 ## Database
 
