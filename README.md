@@ -51,15 +51,18 @@ Two important network properties are examined:
 
 **Species richness:** The total number of species represented by nodes in both partitions.
 
-**Connectance:** The proportion of possible cross-partition interactions that are observed.
+**Connectance** is the proportion of possible cross-partition interactions that are observed.
 
-\[
+$$
 C = \frac{E}{N_1 \times N_2}
-\]
+$$
 
 where:
-- \(E\) is the number of observed interactions.
-- \(N_1\) and \(N_2\) are the numbers of species in the two partitions.
+
+- $C$ is network connectance.
+- $E$ is the number of observed interactions.
+- $N_1$ is the number of species in the first partition.
+- $N_2$ is the number of species in the second partition.
 
 Robustness is measured using the area under the curve describing the fraction of original species retained in the largest connected component as species are removed.
 
