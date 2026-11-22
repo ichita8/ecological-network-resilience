@@ -102,7 +102,6 @@ ecological-network-resilience/
 ├── methods.md
 ├── pyproject.toml
 └── README.md
-```
 
 The repository includes final experiment summaries, statistical outputs, and research figures. The full replicate-level simulation file and downloaded data caches are excluded because of their size.
 
