@@ -1,4 +1,5 @@
-<CodeBlock language="markdown" editable>
+
+# Research Methods
 
 ## 1. Research Design
 
@@ -18,15 +19,20 @@ All species represented in the original matrix are retained, including species w
 
 The study examines species richness and connectance.
 
-Species richness is the total number of species across both node partitions.
+**Species richness** is the total number of species across both node partitions.
 
-Connectance is the proportion of possible cross-partition interactions that are observed:
+**Connectance** is the proportion of possible cross-partition interactions that are observed:
 
 $$
 C = \frac{E}{N_1 \times N_2}
 $$
 
-where E is the number of observed interactions and N₁ and N₂ are the numbers of species in the two partitions.
+where:
+
+- $C$ is network connectance.
+- $E$ is the number of observed interactions.
+- $N_1$ is the number of species in the first partition.
+- $N_2$ is the number of species in the second partition.
 
 ## 4. Species-Removal Simulations
 
@@ -71,5 +77,3 @@ The analysis uses binary interaction matrices and does not directly model the ec
 Differences in sampling effort, geographic scale, and network construction may affect comparisons between networks.
 
 Monte Carlo replicates improve the precision of simulation estimates but do not increase the number of independent empirical networks.
-</CodeBlock>
-
